@@ -2,6 +2,9 @@
 
 This repository contains the refactored code for the SleekNet project, originally from a Jupyter notebook. It implements a U-Net-like architecture with MobileNetV2 backbone and custom attention mechanisms for segmentation tasks (specifically ISIC2016).
 
+<img width="735" height="643" alt="image" src="https://github.com/user-attachments/assets/187063e0-4035-4bf4-8b2f-b7f3c06215e2" />
+
+
 ## Directory Structure
 
 - `data/`: Dataset loading logic (`dataset.py`)
