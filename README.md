@@ -4,6 +4,10 @@ This repository contains the refactored code for the SleekNet project, originall
 
 <img width="735" height="643" alt="image" src="https://github.com/user-attachments/assets/187063e0-4035-4bf4-8b2f-b7f3c06215e2" />
 
+The Dsc metric on the ISIC16 dataset compared to other methods with parameters (M) and FLOPs (G)
+<img width="516" height="290" alt="image" src="https://github.com/user-attachments/assets/7cda66fb-93f9-4d29-9fe8-36b6b3e3eea5" />
+
+
 
 ## Directory Structure
 
