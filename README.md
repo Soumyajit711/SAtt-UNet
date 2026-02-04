@@ -1,4 +1,4 @@
-# SleekNet Repository
+# SAtt-UNet Repository
 
 **This repository contains the refactored code for the SAtt-UNet project, originally from a Jupyter notebook. It implements a U-Net-like architecture with a lightweight backbone and custom attention mechanisms for segmentation tasks (specifically ISIC2016).**
 
