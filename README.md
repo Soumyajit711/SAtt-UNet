@@ -29,6 +29,14 @@ The increasing demand for quick and efficient skin cancer detection has grown, m
 
 **Fig 4. Qualitative results of lesion segmentation with predicted masks (green) overlaid on input images, highlighting boundaries (red) and misclassified regions (blue) for all datasets.**
 
+**Tab 2. Quantitative results for the proposed model trained and tested across ISIC16, ISIC18, and PH2 datasets. All scores are reported in % (mean ± std).**
+
+| Training Dataset | Testing: ISIC16 (DSC) | Testing: ISIC16 (IoU) | Testing: PH2 (DSC) | Testing: PH2 (IoU) | Testing: ISIC18 (DSC) | Testing: ISIC18 (IoU) |
+| ---------------- | --------------------- | --------------------- | ------------------ | ------------------ | --------------------- | --------------------- |
+| **ISIC16**       | 91.97 ± 0.04          | 85.28 ± 0.05          | 92.00 ± 0.03       | 85.32 ± 0.05       | 87.28 ± 0.07          | 78.17 ± 0.10          |
+| **PH2**          | 80.77 ± 0.15          | 69.98 ± 0.17          | 94.68 ± 0.08       | 89.90 ± 0.06       | 80.33 ± 0.11          | 68.52 ± 0.14          |
+| **ISIC18**       | 92.07 ± 0.03          | 85.32 ± 0.06          | 92.25 ± 0.06       | 85.78 ± 0.03       | 88.10 ± 0.10          | 79.70 ± 0.12          |
+
 
 <img width="729" height="411" alt="image" src="https://github.com/user-attachments/assets/c5cc726c-4d60-4769-8d8c-77166a9d7725" />
 
