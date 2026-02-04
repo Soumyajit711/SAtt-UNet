@@ -11,6 +11,14 @@ The increasing demand for quick and efficient skin cancer detection has grown, m
 
 **Fig 2. The Dsc metric on the ISIC16 dataset compared to other methods with parameters (M) and FLOPs (G).**
 
+**Tab 1. Quantitative evaluation of methods on ISIC16, PH2, and ISIC18 datasets. All scores are reported in % (mean ± std).**
+
+| Dataset | Params (M) | FLOPs (G) | Dice (DSC)   | IoU          | Accuracy     | Sensitivity  | Specificity  |
+| ------- | ---------- | --------- | ------------ | ------------ | ------------ | ------------ | ------------ |
+| ISIC16  | 4.17       | 2.70      | 91.97 ± 0.04 | 85.28 ± 0.05 | 95.81 ± 0.08 | 91.09 ± 0.05 | 97.55 ± 0.06 |
+| PH2     | 4.17       | 2.70      | 94.68 ± 0.08 | 89.90 ± 0.06 | 96.60 ± 0.10 | 94.91 ± 0.06 | 97.27 ± 0.07 |
+| ISIC18  | 4.17       | 2.70      | 88.10 ± 0.10 | 79.70 ± 0.12 | 93.46 ± 0.10 | 92.65 ± 0.11 | 95.02 ± 0.09 |
+
 
 <img width="733" height="158" alt="image" src="https://github.com/user-attachments/assets/6d2bf389-569a-4478-b067-f27b25995f67" />
 
