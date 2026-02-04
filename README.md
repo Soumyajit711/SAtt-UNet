@@ -11,6 +11,7 @@ The increasing demand for quick and efficient skin cancer detection has grown, m
 
 **Fig 2. The Dsc metric on the ISIC16 dataset compared to other methods with parameters (M) and FLOPs (G).**
 
+
 **Tab 1. Quantitative evaluation of methods on ISIC16, PH2, and ISIC18 datasets. All scores are reported in % (mean ± std).**
 
 | Dataset | Params (M) | FLOPs (G) | Dice (DSC)   | IoU          | Accuracy     | Sensitivity  | Specificity  |
@@ -28,6 +29,7 @@ The increasing demand for quick and efficient skin cancer detection has grown, m
 <img width="734" height="316" alt="image" src="https://github.com/user-attachments/assets/ff301ca5-3186-4e33-8b4c-a693bef75fe2" />
 
 **Fig 4. Qualitative results of lesion segmentation with predicted masks (green) overlaid on input images, highlighting boundaries (red) and misclassified regions (blue) for all datasets.**
+
 
 **Tab 2. Quantitative results for the proposed model trained and tested across ISIC16, ISIC18, and PH2 datasets. All scores are reported in % (mean ± std).**
 
